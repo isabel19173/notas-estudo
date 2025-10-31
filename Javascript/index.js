@@ -1,6 +1,3 @@
-console.log( (497.78-1555.56-600))
-console.log('1'+'1')
-console.log("1+1")
-console.log("I'm big fan Marvel")
+console.log( "A verdadeira coragem não está em saber quando tirar uma vida, mas, sim, em quando poupar uma.")
 
 
